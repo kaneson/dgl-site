@@ -35,4 +35,11 @@ In the following file
     - After running the above four composer/artisan commands run the following (corrected) command
     
         `php artisan backpack:base:add-sidebar-content "<li><a href='{{ backpack_url(\"elfinder\")}}'><i class='fa fa-files-o'></i> <span>File manager</span></a></li>"`
+
+
+### Ongoing dev notes.
+
+__Match CRUD controller contestants select2 multiple pulls all contestants of all matches. FIX THIS.__
+
+
 ###### XEQTIONR
